@@ -9,6 +9,7 @@ import "./NewPlace.css";
 
 const NewPlace = () => {
   const titleInputHandler = useCallback((id, value, isValid) => {}, []);
+  
   const descriptionInputHandler = useCallback((id, value, isValid) => {}, []);
 
   return (
